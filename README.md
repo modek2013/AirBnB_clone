@@ -167,9 +167,8 @@ The recognizable commands by the interpreter are the following:
 | **count** | Retrieve the number of instances of a class.  |
 | **Usage** | **<class name\>.count()** |
 
-## Authors
+## Author
 
-Ehoneah Obed | Email: [ehoneahobed](mailto:ehoneahobed@hotmail.com) 
+Moyosore Adeeko | Github: [modek2013](2013kulbaibe@gmail.com) 
 
-Anthony Etim | Github: [otoobongekim](mailto:otoobongekim@gmail.com)
 # AirBnB Clone Project
